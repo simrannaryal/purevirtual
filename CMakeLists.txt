@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(purevirtual)
+add_library(car Car.cpp)
+add_library(scooter Scooter.cpp)
+add_library(func Functionality.cpp)
+add_executable(main Main.cpp)
+target_link_libraries(main func  scooter car )

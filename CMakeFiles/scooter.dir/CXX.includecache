@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kpit/Desktop/Desktop_3/purevirtual/Car.h
+iostream
+-
+
+/home/kpit/Desktop/Desktop_3/purevirtual/Scooter.cpp
+Scooter.h
+/home/kpit/Desktop/Desktop_3/purevirtual/Scooter.h
+
+/home/kpit/Desktop/Desktop_3/purevirtual/Scooter.h
+iostream
+-
+Car.h
+/home/kpit/Desktop/Desktop_3/purevirtual/Car.h
+

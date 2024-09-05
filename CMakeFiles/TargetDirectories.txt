@@ -1,0 +1,6 @@
+/home/kpit/Desktop/Desktop_3/purevirtual/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/Desktop_3/purevirtual/CMakeFiles/main.dir
+/home/kpit/Desktop/Desktop_3/purevirtual/CMakeFiles/func.dir
+/home/kpit/Desktop/Desktop_3/purevirtual/CMakeFiles/scooter.dir
+/home/kpit/Desktop/Desktop_3/purevirtual/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/Desktop_3/purevirtual/CMakeFiles/car.dir

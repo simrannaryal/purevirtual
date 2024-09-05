@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscooter.a  CMakeFiles/scooter.dir/Scooter.cpp.o
+/usr/bin/ranlib libscooter.a
